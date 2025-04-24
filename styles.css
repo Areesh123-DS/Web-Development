@@ -1,0 +1,27 @@
+
+body{
+   background-color:LightGrey;
+   }
+.border-container{
+  background-image:  url("background.jpg");
+
+  background-color:;
+  text-align:center;
+  font-family:Arial;
+  color:White;
+  padding:30px;
+  border-bottom: 3px solid black; 
+   }
+    
+
+table {
+    font-size:20px;
+    color:Olive;
+    width: 100%;
+}
+
+ th,  td {
+    border: 2px solid Olive;
+    text-align: left;
+    padding: 8px;
+}
